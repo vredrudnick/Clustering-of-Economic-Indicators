@@ -1,4 +1,6 @@
 # Clustering-of-Economic-Indicators
+In this project, I explore applications of spectral clustering algorithms to analyze countries' macroeconomic indicators.
+
 Notes on the code in .ipynb (by cells):
 - IMPORTANT: do not execute Cell 1.4 unless 1.3 fails. In this case, use .csv.
 - Cell 1.1: the code was written for working in a Google Colab (Jupyter notebook) environment. Modify for other environments, i.e. "pip install wbdata".
