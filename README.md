@@ -2,6 +2,7 @@
 This project is ongoing and being regularly updated.
 
 In this project, I explore applications of spectral clustering algorithms to analyze countries' macroeconomic indicators.
+
 NOTE: The execution of the plot in 4.2 does not work properly when data is missing, a fix is underway.
 
 Notes on the code in .ipynb (by cells):
