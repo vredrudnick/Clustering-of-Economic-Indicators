@@ -7,6 +7,7 @@ Notebook 2: Clustering_2.ipynb (first uploaded 02/15/26):
   1. Domestic credit to private sector (percentage of GDP)
   2. Trade Openness ((X + M)/GDP)
   3. Account Balance (percentage of GDP)
+- results: clustering2_results.csv, sim_matrix2.png, eigengaps2_plot.png
 
 
 Notebook 1: clustering_code.ipynb
