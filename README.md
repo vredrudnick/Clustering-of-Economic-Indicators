@@ -1,7 +1,7 @@
 # Clustering-of-Economic-Indicators
 This project is ongoing and being regularly updated.
 
-Notebook 2: Clustering_2.ipynb (first uploaded 02/15/26):
+Notebook 2: Clustering_2.ipynb (first uploaded 03/09/26; Results: ):
 - application of spectral clustering
 - clustering countries based on three economic characteristics
   1. Domestic credit to private sector (percentage of GDP)
